@@ -40,7 +40,6 @@ class App extends React.Component {
       this.setState({
       compteur: newquantity
     });
-    console.log(newquantity);
   }
 
   render() {
